@@ -23,7 +23,6 @@ let g:terraform_align=1
 let g:terraform_fmt_on_save = 1
 
 " add custom dictionaries
-"set dictionary+=~/.vim/dict/*.dict
 set complete+=k~/.vim/dict/*/*.dict
 
 " NERDTree
