@@ -13,3 +13,6 @@
 [submodule "bundle/pyflakes-pathogen"]
 	path = bundle/pyflakes-pathogen
 	url = https://github.com/mitechie/pyflakes-pathogen.git
+[submodule "dict/terraform"]
+	path = dict/terraform
+	url = https://JosephHolland_@bitbucket.org/JosephHolland_/vim-dict-terraform.git
