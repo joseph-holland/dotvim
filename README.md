@@ -1,3 +1,4 @@
+### Quick setup ###
 ```
 cd ~
 git clone https://bitbucket.org/JosephHolland_/dotvim/overview ~/.vim
