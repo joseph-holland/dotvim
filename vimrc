@@ -15,6 +15,17 @@ set expandtab
 " enable auto-indentation defined in plugins - should override 
 filetype plugin indent on
 
+" enable supertab context completion
+let g:SuperTabDefaultCompletionType = "context"
+
+" vim-hashicorp-tools setup
+let g:terraform_align=1
+let g:terraform_fmt_on_save = 1
+
+" add custom dictionaries
+"set dictionary+=~/.vim/dict/*.dict
+set complete+=k~/.vim/dict/*.dict
+
 " NERDTree
 " open a NERDTree automatically when vim starts up
 "autocmd VimEnter * NERDTree
