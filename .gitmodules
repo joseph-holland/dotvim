@@ -16,3 +16,6 @@
 [submodule "dict/terraform"]
 	path = dict/terraform
 	url = https://JosephHolland_@bitbucket.org/JosephHolland_/vim-dict-terraform.git
+[submodule "bundle/delimitMate"]
+	path = bundle/delimitMate
+	url = https://github.com/Raimondi/delimitMate.git
