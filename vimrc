@@ -18,6 +18,9 @@ set expandtab
 " enable auto-indentation defined in plugins - should override 
 filetype plugin indent on
 
+" enable autochdir
+:set autochdir
+
 " enable supertab context completion
 let g:SuperTabDefaultCompletionType = "context"
 
