@@ -4,6 +4,9 @@ execute pathogen#infect()
 " enable syntax highlighting
 syntax on
 
+" enable line numbers
+set nu
+
 " tab setup
 " show existing tab with 4 spaces width
 set tabstop=2
